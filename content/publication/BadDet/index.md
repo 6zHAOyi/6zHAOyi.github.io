@@ -6,16 +6,20 @@ title: 'BadDet: Blockchain Fraud Detection with Dynamic Address-Transaction Grap
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xiaoda Wang
-    - admin
-    - Tengda Guo
-    - Zhiyuan Cheng
-    - Carl Yang 
-    - Mingjie Tang
+  - admin
+  - Tengda Guo
+  - Zhiyuan Cheng
+  - Carl Yang 
+  - Mingjie Tang
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
+  - 
+  - 
+  - 
+  -
 
 date: '2024'
 doi: ''
