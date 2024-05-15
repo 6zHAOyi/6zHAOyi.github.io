@@ -1,5 +1,5 @@
 ---
-title: 'BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks.'
+title: 'BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,7 +22,7 @@ date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024'
+publishDate: '2024-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
