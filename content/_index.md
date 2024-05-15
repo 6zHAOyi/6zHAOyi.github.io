@@ -54,7 +54,7 @@ sections:
               <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
           </li>
           <li>
-              <strong>[2023/08/02]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
+              <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
           </li>
         </ul>
     design:

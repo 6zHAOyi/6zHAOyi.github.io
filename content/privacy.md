@@ -12,4 +12,4 @@ header:
   image: ''
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Welcome to my homepage! The site does not collect any visitor's privacy and information.
