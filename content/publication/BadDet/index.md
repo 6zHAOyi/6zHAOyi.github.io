@@ -8,15 +8,14 @@ authors:
 - Carl Yang 
 - Mingjie Tang
 
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2024-05-16T00:00:00Z"
+date: "2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-16T00:00:00Z"
+publishDate: "2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +30,7 @@ abstract: Bitcoin, a decentralized cryptocurrency, operates on a peer-to-peer Bl
 Bitcoin addresses. Secondly, we propose a clustering algorithm to efficiently construct the user entity graph and formulate the user entity features. Lastly, we propose a dynamic GCN which employs an unsupervised feature generation method to derive low-dimensional representations for effective fraudulent address identification. And we adapt GCN along the temporal dimension to dynamically update the weight matrices of different GCN layers. Experimental results show that our proposed framework outperforms state-of-the-art Bitcoin address classifiers, achieving an F1-score of 84.9% and an AUC of 95.8%. We open-source the dataset and our implementations to encourage further research.
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
 tags: ["Blockchain", "Graph Convolutional Network", "Heterogeneous Graph"]
 featured: True
