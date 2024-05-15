@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liu Zhaoyi
+title: Zhaoyi Liu
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -86,7 +86,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: <zyliu.er@gmail.com>
+    link: "mailto:zyliu.er@gmail.com"
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -113,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-I am a third-year undergraduate student in School of Cyber Science and Engineering at Sichuan University. I am interested in developing machine learning algorithms that are efficient, reliable and trustworthy. I am fortunate to be advised by Professor [Mingjie Tang](https://merlintang.github.io/), focusing on discovering potential vulnerability in machine learning techniques to make them more reliable.
+I am a third-year undergraduate student in School of Cyber Science and Engineering at Sichuan University. I am interested in developing machine learning algorithms that are efficient, reliable and trustworthy. I am fortunate to be advised by Professor [Mingjie Tang](https://merlintang.github.io/) and to work with Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) and Professor [Carl Yang](https://www.cs.emory.edu/~jyang71/).
 {style="text-align: justify;"}
