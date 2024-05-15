@@ -18,11 +18,11 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-date: '2024-05-01T00:00:00Z'
+date: '2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-01T00:00:00Z'
+publishDate: '2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -38,7 +38,7 @@ abstract: Pixel-wise regression tasks (e.g., monocular depth estimation (MDE) an
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: []
+tags: ["Adversarial Attack"]
 
 # Display this page in the Featured widget?
 featured: true

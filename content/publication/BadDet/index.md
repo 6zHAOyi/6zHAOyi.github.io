@@ -33,7 +33,7 @@ Bitcoin addresses. Secondly, we propose a clustering algorithm to efficiently co
 # summary: 
 
 tags: ["Blockchain", "Graph Convolutional Network", "Heterogeneous Graph"]
-featured: True
+featured: false
 
 # links:
 # - name: ""
