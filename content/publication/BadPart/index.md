@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Forty-first International Conference on Machine Learning*
-publication_short: In *ICML*
+publication_short: In *ICML 2024*
 
 abstract:
 
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'High Light Overview of BadPart'
   focal_point: ''
   preview_only: false
 
