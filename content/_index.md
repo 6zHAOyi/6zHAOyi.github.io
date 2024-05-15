@@ -51,7 +51,7 @@ sections:
       text: |-
         <ul>
           <li>
-              <strong>[2024/05/02]</strong>Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
+              <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
           </li>
         </ul>
     design:
@@ -83,7 +83,7 @@ sections:
     design:
       columns: '2'
       # view: citation
-      view: Compact
+      view: Card
 
   ####################################################################################################
   - block: experience
