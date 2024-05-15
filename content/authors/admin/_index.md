@@ -113,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-I am a third-year undergraduate student in School of Cyber Science and Engineering at Sichuan University. I am interested in developing machine learning algorithms that are efficient, reliable and trustworthy. I am fortunate to be advised by Professor [Mingjie Tang](https://merlintang.github.io/) and to work with Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) and Professor [Carl Yang](https://www.cs.emory.edu/~jyang71/).
+I am a third-year undergraduate student in School of Cyber Science and Engineering at Sichuan University. I am interested in developing machine learning algorithms that are efficient, reliable and trustworthy. I am fortunate to be advised by Professor [Mingjie Tang](https://merlintang.github.io/) and to work with Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/) and Professor [Carl Yang](https://www.cs.emory.edu/~jyang71/). I will graduate in 2025 Fall and I am looking for a Phd. position.
 {style="text-align: justify;"}
