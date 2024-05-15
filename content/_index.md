@@ -82,7 +82,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: compact
+      view: citation
 
   ####################################################################################################
   - block: experience
