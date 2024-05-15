@@ -41,7 +41,7 @@ abstract: Pixel-wise regression tasks (e.g., monocular depth estimation (MDE) an
 tags: ["Adversarial Attack"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
