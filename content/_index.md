@@ -50,9 +50,9 @@ sections:
       title: Recent News
       text: |-
         <ul>
-          # <li>
-          #     <strong>[2023/11/02]</strong> <a href="https://github.com/SolidLao/GPTuner">GPTuner</a> is open-sourced now! 
-          # </li>
+          <li>
+              <strong>[2024/05/02]</strong>Our paper <a href="https://github.com/SolidLao/GPTuner">BadPart</a> is <strong>accepted by ICML 2024!<\strong>
+          </li>
         </ul>
     design:
       columns: '2'
@@ -84,6 +84,7 @@ sections:
       view: citation
   ####################################################################################################
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
