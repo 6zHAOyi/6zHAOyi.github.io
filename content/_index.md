@@ -83,7 +83,7 @@ sections:
     design:
       columns: '2'
       # view: citation
-      view: Card
+      view: List
 
   ####################################################################################################
   - block: experience
