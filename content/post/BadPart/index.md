@@ -32,7 +32,7 @@ authors:
   - admin
 
 tags:
-  - Adversarial Attack
+  - Robustness
 
 categories:
   - Research Blog
@@ -57,4 +57,22 @@ Unfortunately, the above pixel-wise regression models are still exposed to the a
 
 Not all noise can be effective for triggering the vulnerability. It must have some particular pattern and distribution that the target nerual network are sensitive to. So, the qestion is how to find that particular distribution?
 
-There are many studies
+### Threat model
+
+Taking what capabilities the attacker can possess, the attack can be divided into two catageries: white-box and black-box attack. 
+
+1. In white-box attack scenario, the assumption is that the attacker have access to the whole target nerual network. Thus the adversarial patch can be optimized by gradient descent because the gradients are available. 
+
+2. In black-box scenario, the target nerual network are transparent to the attacker. The attacker can only feed the model an input and get the corresponding feedback to adjust his adversarial patch.
+
+Although white-box method can achive superior attack performance compared with black-box attacks, the assumption of accessibility of target model is too strong to fulfill in real situations. In contrary, the black-box setting is realistic that many widely applyed commercial networks are closed source and only provides services (i.e. taking the input and give the output). Thus great danger will be caused if attack can be launched under this black-box setting.
+
+### BadPart
+
+Given the above confinements, we propose the first black-box adversarial patch attack framework against pixel-wise regression models:
+
+> BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks.
+
+By our method, we show the possibility that the attacker can successfully launch an adversarial attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924).
+
+![BadPart](badpart_overview.png "BadPart")
