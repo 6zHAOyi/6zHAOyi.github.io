@@ -65,14 +65,23 @@ Taking what capabilities the attacker can possess, the attack can be divided int
 
 2. In black-box scenario, the target nerual network are transparent to the attacker. The attacker can only feed the model an input and get the corresponding feedback to adjust his adversarial patch.
 
-Although white-box method can achive superior attack performance compared with black-box attacks, the assumption of accessibility of target model is too strong to fulfill in real situations. In contrary, the black-box setting is realistic that many widely applyed commercial networks are closed source and only provides services (i.e. taking the input and give the output). Thus great danger will be caused if attack can be launched under this black-box setting.
+Although white-box method can achive superior attack performance compared with black-box attacks, the assumption of accessibility of target model is too strong to fulfill in real situations. In contrary, the black-box setting is realistic that many widely applyed commercial networks are closed source and only provides services (i.e. taking the input and give the output). Thus great danger will be caused if attack can be launched under this black-box setting. 
 
 ### BadPart
+
+There exists some popular score based methods and decision based methods which are proposed for optimizing adversarial noise for classification models. Although the orientation is different, their idea seems adaptive to the pixel-wise models. For score based methods, the most representitive one is random search. It is a iterative optimization which works by randomly generating a adversarial patch and feed it into the model to get the feedback score in every iteration. The final saved best adversarial patch will be the one that has the highest score across the process. Some other methods follow the similar process but with the difference of generating new adversarial patch by heuristic algorithm (e.g. genetic algorithm). However, although these methods may behave well for attacking classification models, they are limited for pixel-wise regression models for two reasons:
+
+1. The patch area is relatively bigger than that in classification attack, resulting in much larger search space.
+
+2. Random search does not utilize the feedback information well, resulting in taking many nonsense attempts.
 
 Given the above confinements, we propose the first black-box adversarial patch attack framework against pixel-wise regression models:
 
 > BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks.
 
-By our method, we show the possibility that the attacker can successfully launch an adversarial attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924).
+By our method, we show the possibility that the attacker can successfully launch an adversarial attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924) and code is available in our [github](https://github.com/Bob-cheng/BadPart).
 
 ![BadPart](badpart_overview.png "BadPart")
+
+## Ethics
+More and more advanced SOTA models have been developed by researchers. But their robustness to such adverarial attack is not fully considered. Our work highlights potential security risks in applications that rely on those models, such as autonomous driving, virtual reality and video compositions. We hope to draw the attention of the related developers, and motivate the machine learning (ML) community to create more robust models or defense mechanisms against these types of attacks.
