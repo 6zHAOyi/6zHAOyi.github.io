@@ -51,11 +51,15 @@ Note that while the vulnerability we discussed above was first discovered in vis
 
 Image classification, as a relatively simple vison task, seems limited application. Thus, a bunch of nerual networks are proposed for some more complicated pixel-wise regression tasks e.g. Depth Estimation and Optical Flow Estimation. <!-- These pixel-wise regression models input a image and outputs a score map with each pixel in input has corresponding score in score map.  -->Specificly, for depth estimation models, they input a image and output a depth map with each value in the depth map standing for the distance this pixel to the camera. For optical flow estimation models, they input a sequntial two frames of the scene and output a displacement map with each value in the map standing for the displacement between two frames. These two models are widely deployed to make self-driving possible with the depth model detecting the distance between sorrouding objects and the car and optical flow model calculating the speed of moving objects.
 
-Unfortunately, the above pixel-wise regression models are still exposed to the adversarial attacks. Adversarial **patch** attack even makes results unaffordable in real world circumstance. Let's think a scenario like this: a depth model embeded self-driving car is running on the road. The model runs on images captured by camera to sense the sorrouding situation. As the model are sensitive to advervasiral noise, the attacker can craft a particular adversarial patch to make the depth of the patched area (impact can spread beyoud this area actually) far than it actually is. The attacker can prints this adversarial patch and paste it on a barrier along the road. Once the camera captures this adversarial patch, the car can wrongly estimate the distance between itself and the front barrier, thinking they are far from each other but close instead. The consequence is obvious —— crashing into the barrier.
+Unfortunately, the above pixel-wise regression models are still exposed to the adversarial attacks. Adversarial **patch** attack even makes results unaffordable in real world circumstance. Let's think a scenario like this: a depth model embeded self-driving car is running on the road. The model runs on images captured by camera to sense the sorrouding situation. As the model are sensitive to advervasiral noise, the attacker can craft a particular adversarial patch to make the depth of the patched area (impact can spread beyoud this area actually) far than it actually is. The attacker can prints this adversarial patch and paste it on a barrier along the road. Once the camera captures this adversarial patch, the car can wrongly estimate the distance between itself and the front barrier, thinking they are far from each other but close instead. The consequence is obvious —— crashing into the barrier. Some examples are shown in the figure.
+
+![Examples](visulization_examples.png)
 
 ## Adversarial Patch Optimization
 
 Not all noise can be effective for triggering the vulnerability. It must have some particular pattern and distribution that the target nerual network are sensitive to. So, the qestion is how to find that particular distribution?
+
+Before figure out this question, let's take a look at what capabilities you have.
 
 ### Threat model
 
