@@ -53,6 +53,10 @@ Image classification, as a relatively simple vison task, seems limited applicati
 
 Unfortunately, the above pixel-wise regression models are still exposed to the adversarial attacks. Adversarial **patch** attack even makes results unaffordable in real world circumstances. Let's think a scenario like this: a depth model embeded self-driving car is running on the road. The model runs on images captured by camera to sense the surrouding situation. As the model are sensitive to advervasiral noise, the attacker can craft a particular adversarial patch to make the depth of the patched area (error can permeate beyoud this area actually) far than it actually is. The attacker can print this adversarial patch and paste it on a barrier along the road. Once the camera captures this adversarial patch, the car can wrongly estimate the distance between itself and the front barrier, thinking they are far from each other but close instead. The consequence is obvious —— crashing into the barrier. 
 
+Some examples are shown in the figure, the adversarial patches cause significant estimation error both in depth and optical flow. (Adversarial patches are optimized by BardPart)
+
+![Examples](visulization_examples.png "Attack Examples")
+
 ## Adversarial Patch Optimization
 
 Not all noise can be effective for triggering the vulnerability. It must have some particular pattern and distribution that the target neural network is sensitive to. So, the qestion is how to find that particular distribution?
@@ -84,10 +88,6 @@ Given the above confinements, we propose the first black-box adversarial patch a
 By our method, we show the possibility that the attacker can successfully launch an adversarial patch attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924) and code is available in our [github](https://github.com/Bob-cheng/BadPart).
 
 ![BadPart](badpart_overview.png "BadPart")
-
-Some examples are shown in the figure, the adversarial patches cause significant estimation error both in depth and optical flow. (Adversarial patches are optimized by BardPart)
-
-![Examples](visulization_examples.png "Attack Examples")
 
 ## Ethics
 More and more advanced SOTA models have been developed by researchers. But their robustness to such adverarial attack is not fully considered. Our work highlights potential security risks in applications that rely on those models, such as autonomous driving, virtual reality and video compositions. We hope to draw attention of related developers, and motivate the machine learning (ML) community to create more robust models or defense mechanisms against these types of attacks avoiding leading to real accidents.
