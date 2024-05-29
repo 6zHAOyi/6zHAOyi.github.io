@@ -85,7 +85,7 @@ Given the above confinements, we propose the first black-box adversarial patch a
 
 > BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks.
 
-By our method, we show the possibility that the attacker can successfully launch an adversarial patch attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924) and code is available in our [github](https://github.com/Bob-cheng/BadPart).
+By our method, we show the possibility that the attacker can successfully launch an adversarial patch attack towards pixel-wise task models. BadPart novelly employs probabilistic square sampling and score-based gradient estimation techniques to generate adversarial patch. The method overview is presented below. More details of our algorithm can be found in our [paper](https://arxiv.org/abs/2404.00924) and code is available in our [github](https://github.com/6zHAOyi/BadPart).
 
 ![BadPart](badpart_overview.png "BadPart")
 
