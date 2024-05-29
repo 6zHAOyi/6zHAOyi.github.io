@@ -90,4 +90,4 @@ By our method, we show the possibility that the attacker can successfully launch
 ![BadPart](badpart_overview.png "BadPart")
 
 ## Ethics
-More and more advanced SOTA models have been developed by researchers. But their robustness to such adverarial attack is not fully considered. Our work highlights potential security risks in applications that rely on those models, such as autonomous driving, virtual reality and video compositions. We hope to draw attention of related developers, and motivate the machine learning (ML) community to create more robust models or defense mechanisms against these types of attacks avoiding leading to real accidents.
+More and more advanced SOTA models have been developed by researchers. But their robustness to such adversarial attack is not fully considered. Our work highlights potential security risks in applications that rely on those models, such as autonomous driving, virtual reality and video compositions. We hope to draw attention of related developers, and motivate the machine learning (ML) community to create more robust models or defense mechanisms against these types of attacks avoiding leading to real accidents.

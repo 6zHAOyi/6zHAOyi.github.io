@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Engieering
+    - course: BSc in Computer Science
       institution: Sichuan University
       year: Present
 
