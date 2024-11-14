@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: Visiting Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Trustworthy Machine Learning.
+bio: Primary research interest is Trustworthy ML.
 
 # Interests to show in About widget
 interests:
@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Student Intern in Trustwothy ML
+    - course: Visiting Student in Trustwothy ML
       institution: University of Illinois Urbana-Champaign
       year: Present
     - course: BSc in software engineering
@@ -114,7 +114,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am an undergraduate student intern at University of Illinois Urbana-Champaign, under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Xiangyu Zhang (Purdue)](https://www.cs.purdue.edu/homes/xyzhang/) to bring me to the research world. I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
+At present, I have the privilege of being a visiting student at University of Illinois Urbana-Champaign under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Carl Yang (Emory)](http://www.cs.emory.edu/~jyang71/) to bring me to the research world. I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
 
 My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the trustworthiness of ML-driven applications and related topics around foundation models and ML algorithms.
 {style="text-align: justify;"}
