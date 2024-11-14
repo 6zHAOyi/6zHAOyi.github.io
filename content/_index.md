@@ -107,15 +107,11 @@ sections:
           location: Chengdu
           date_start: '2021-09'
           date_end: '2025-06 (expected)'
-          # description:  |2-
-          #     **Advised by**
+          description:  |2-
+              **Projects**
 
-          #     * [Prof. Minjie Tang](https://merlintang.github.io/)
-
-          #     **Projects**
-
-          #     * Universal Black-Box Adversarial Patch Attacks on Regression Models
-          #     * Fraud Detection in Blockchain via Graph Neural Network 
+              * Universal Black-Box Adversarial Patch Attacks on Regression Models
+              * Fraud Detection in Blockchain via Graph Neural Network 
     design:
       columns: '2'
   ####################################################################################################
