@@ -1,41 +1,23 @@
 ---
-title: 'Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment'
+title: 'Stealthy Backdoor Attack on Self-supervised Vision Encoders for Large Vision Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Dongping Chen
-  - Ruoxi Chen
-  - Shu Pu
   - admin
-  - Yanru Wu
-  - Caixi Chen
-  - Benlin Liu
-  - Yue Huang
-  - Yao Wan
-  - Pan Zhou
-  - Ranjay Krishna
+  - Huan Zhang
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - ''
-  - ''
-  - ''
-  - ''
+  - 'Corresponding author'
   - 'Corresponding author'
 
-date: '2024-09-02T00:00:00Z'
+date: '2024-011-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-09-01T00:00:00Z'
+publishDate: '2024-011-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -43,15 +25,15 @@ publishDate: '2024-09-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Thirteenth International Conference on Learning Representations (ICLR 2025, In Submission)*
-publication_short: In *Thirteenth International Conference on Learning Representations (ICLR 2025, In Submission)*
+publication: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025, In Submission)*
+publication_short: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025, In Submission)*
 
 abstract: In submmision.
 
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: ["Interleaved Text-and-Image Generation"]
+tags: ["Backdoor"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -61,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://openreview.net/pdf?id=rDLgnYLM5b'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'High Light Overview of ISG'
+  caption: 'High Light Overview of BadVision'
   focal_point: ''
   preview_only: false
 
