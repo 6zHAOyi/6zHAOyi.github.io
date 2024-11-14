@@ -21,11 +21,11 @@ author_notes:
   - ''
   - ''
 
-date: '2024-05-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-01T00:00:00Z'
+publishDate: '2024-07-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -33,8 +33,8 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *34rd ACM International Conference on Information and Knowledge Management (KDD 2025, In Submission)*
-publication_short: In *34rd ACM International Conference on Information and Knowledge Management (KDD 2025, In Submission)*
+publication: In *ACM TheWebConf 2025 Conference (WWW 2025, In Submission)*
+publication_short: In *ACM TheWebConf 2025 Conference (WWW 2025, In Submission)*
 
 abstract: Bitcoin, a decentralized cryptocurrency, operates on a peer-to-peer Blockchain network that eliminates the need for parties to disclose personal information. This anonymity, however, increases the potential for malicious transactions. While efforts have been made to identify fraudulent Bitcoin transactions, current methods largely overlook behavioral analysis in address classification and the identification of user entity as addresses with similar behaviors. In addition, the dynamic and imbalanced attributes of Bitcoin addresses complicate the detection of anomalous information, which are rarely considered in prior works. In this paper, we propose BadDet, a dynamic Graph Convolutional Network (GCN) framework for fraud detection in Blockchain. Technically, we introduce three key designs. Firstly, we construct the first dynamic Bitcoin address-transaction dataset by transforming Bitcoin addresses and transactions into a heterogeneous graph structure. This dataset includes five types of address behaviors and over 850k real-world Bitcoin addresses. Secondly, we propose a clustering algorithm to efficiently construct the user entity graph and formulate the user entity features. Lastly, we propose a dynamic GCN which employs an unsupervised feature generation method to derive low-dimensional representations for effective fraudulent address identification. And we adapt GCN along the temporal dimension to dynamically update the weight matrices of different GCN layers. Experimental results show that our proposed framework outperforms state-of-the-art Bitcoin address classifiers, achieving an F1-score of 84.9% and an AUC of 95.8%. We open-source the dataset and our implementations to encourage further research.
 

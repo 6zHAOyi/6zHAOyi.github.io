@@ -116,7 +116,7 @@ highlight_name: true
 ---
 I am an undergraduate student intern at University of Illinois Urbana-Champaign, under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Xiangyu Zhang (Purdue)](https://www.cs.purdue.edu/homes/xyzhang/) to bring me to the research world. I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
 
-My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the robustness and security of ML-driven applications. Additionally, I explore security topics around foundation models and ML algorithms.
+My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the trustworthiness of ML-driven applications and related topics around foundation models and ML algorithms.
 {style="text-align: justify;"}
 
 
