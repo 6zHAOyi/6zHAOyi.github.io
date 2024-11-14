@@ -36,10 +36,10 @@ education:
   courses:
     - course: Visiting Student in Trustwothy ML
       institution: University of Illinois Urbana-Champaign
-      year: Present
+      year: 2025, 06 (expected)
     - course: BSc in software engineering
       institution: Sichuan University
-      year: Present
+      year: Present (expected)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
