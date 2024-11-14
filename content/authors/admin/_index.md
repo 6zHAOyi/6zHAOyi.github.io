@@ -21,21 +21,23 @@ role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sichuan University
-    url: https://www.scu.edu.cn/
+  - name: University of Illinois Urbana-Champaign
+    url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Trustworthy Machine Learning and Machine Learning.
+bio: My research interests include Trustworthy Machine Learning.
 
 # Interests to show in About widget
 interests:
-  - Trustworthy Machine Learning
-  - Machine Learning
+  - Trustworthy ML
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computer Science
+    - course: Student Intern in Trustwothy ML
+      institution: University of Illinois Urbana-Champaign
+      year: Present
+    - course: BSc in software engineering
       institution: Sichuan University
       year: Present
 
@@ -112,10 +114,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am an undergraduate student intern at University of Illinois Urbana-Champaign, under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Xiangyu Zhang (Purdue)](https://www.cs.purdue.edu/homes/xyzhang/) to bring me to the research world. I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
 
-I am a third-year undergraduate student in School of Cyber Science and Engineering at Sichuan University. I am fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Xiangyu Zhang (Purdue)](https://www.cs.purdue.edu/homes/xyzhang/) and [Prof.Carl Yang (Emory)](https://www.cs.emory.edu/~jyang71/). I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
-
-My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the robustness and security of AI-driven applications such as autonomous driving etc. Additionally, I love to explore security topics around foundation models and ML algorithms.
+My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the robustness and security of ML-driven applications. Additionally, I explore security topics around foundation models and ML algorithms.
 {style="text-align: justify;"}
 
 
