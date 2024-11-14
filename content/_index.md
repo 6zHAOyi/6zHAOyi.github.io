@@ -115,24 +115,24 @@ sections:
   #   design:
   #     columns: '2'
   ####################################################################################################
-  - block: accomplishments
-    id: honors
-    content:
-      title: Honors & Awards
-      text: |-
-        <ul>
-          <li>
-              National Scholarship, China, 2022, 2023.
-          </li>
-          <li>
-              Silver Award in National College Student Software Design Competition (Top 1.5%), China, 2023.
-          </li>
-          <li>
-            Comprehensive Scholarship, Sichuan University, 2022, 2023.
-          </li>
-        </ul>
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: honors
+  #   content:
+  #     title: Honors & Awards
+  #     text: |-
+  #       <ul>
+  #         <li>
+  #             National Scholarship, China, 2022, 2023.
+  #         </li>
+  #         <li>
+  #             Silver Award in National College Student Software Design Competition (Top 1.5%), China, 2023.
+  #         </li>
+  #         <li>
+  #           Comprehensive Scholarship, Sichuan University, 2022, 2023.
+  #         </li>
+  #       </ul>
+  #   design:
+  #     columns: '2'
   ####################################################################################################
   # - block: accomplishments
   #   content:
