@@ -10,6 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
+  - ''
+  - ''
 
 date: '2024-11-15T00:00:00Z'
 doi: ''
@@ -26,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Working*
 publication_short: In *Working*
 
-abstract: In *Working*
+abstract: In Working
 
 # Summary. An optional shortened abstract.
 # summary: 
