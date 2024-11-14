@@ -46,7 +46,9 @@ publication_types: ['paper-conference']
 publication: In *Thirteenth International Conference on Learning Representations (ICLR 2025, In Submission)*
 publication_short: In *Thirteenth International Conference on Learning Representations (ICLR 2025, In Submission)*
 
-abstract: In submmision.
+abstract: Unified Transformer-based models have enabled simultaneous multimodal understanding and generation, showing promise in unifying both vision and language tasks with interleaved text-and-image generation. However, assessing the performance of multimodal interleaved generation remains unexplored and challenging due to the complexity of interleaved content. We design an automatic multi-granular evaluation framework called Interleaved Scene Graph (ISG). ISG evaluates generations across four levels of granularity; for each granular evaluation, ISG converts each query into a set of atomic questions, which probes for various aspects of correctness. Using ISG, we introduce ISG-Bench, the first multimodal interleaved benchmark with concrete generation requirements for 1,150 queries, spanning a diverse set of 21 text-image generation tasks.
+
+In our experiments, we conduct a multi-granular evaluation of ISG, demonstrating its potential for automatically evaluating interleaved generation consistent with ground truth and human preferences. Furthermore, comprehensive assessments of 10 interleaved generative frameworks reveal that unified models still lack basic accurate instruction-following capabilities, falling short even in structural requirements. Additionally, we introduce a baseline in a compositional agent framework ISG-Agent to explore the upper bound of interleaved generation with agent workflow, outperforming other compositional frameworks in interleaved generation at various levels but still struggles with vision-dominated tasks. Our work offers valuable insights for advancing future research in interleaved generation.
 
 # Summary. An optional shortened abstract.
 # summary: 
