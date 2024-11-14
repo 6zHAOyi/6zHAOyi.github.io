@@ -39,7 +39,7 @@ education:
       year: 2025, 06 (expected)
     - course: BSc in software engineering
       institution: Sichuan University
-      year: Present (expected)
+      year: 2025, 01 (expected)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

@@ -87,33 +87,33 @@ sections:
       columns: '2'
       view: citation
   ####################################################################################################
-  # - block: experience
-  #   id: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: BEng.
-  #         company: Sichuan University
-  #         company_url: ''
-  #         company_logo: 
-  #         location: Chengdu
-  #         date_start: '2021-09'
-  #         date_end: '2025-06'
-  #         description:  |2-
-  #             **Projects**
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      # items:
+      #   - title: BEng.
+      #     company: Sichuan University
+      #     company_url: ''
+      #     company_logo: 
+      #     location: Chengdu
+      #     date_start: '2021-09'
+      #     date_end: '2025-06'
+      #     description:  |2-
+      #         **Projects**
 
-  #             * Universal Black-Box Adversarial Patch Attacks on Regression Models
-  #             * Fraud Detection in Blockchain via Graph Neural Network 
-  #   design:
-  #     columns: '2'
+      #         * Universal Black-Box Adversarial Patch Attacks on Regression Models
+      #         * Fraud Detection in Blockchain via Graph Neural Network 
+    design:
+      columns: '2'
   ####################################################################################################
   - block: accomplishments
     id: honors
