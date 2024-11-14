@@ -106,7 +106,7 @@ sections:
           company_logo: 
           location: Chengdu
           date_start: '2021-09'
-          date_end: '2025-06 (expected)'
+          date_end: '2025-06'
           description:  |2-
               **Projects**
 
