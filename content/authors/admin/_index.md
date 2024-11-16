@@ -34,7 +34,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Visiting Student in Trustwothy ML
+    - course: Visiting Student
       institution: University of Illinois Urbana-Champaign
       year: 2025, 01 (expected)
     - course: BSc in software engineering
