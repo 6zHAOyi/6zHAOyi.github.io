@@ -1,5 +1,5 @@
 ---
-title: Adversarial Attack Causing Error Beyond Wrong Classification
+title: Adversarial Attack Causes Error Beyond Wrong Classification
 subtitle: Welcome 👋 This is a blog post for our paper in ICML 2024. Let's get started!
 
 # Summary for listings and search engines
