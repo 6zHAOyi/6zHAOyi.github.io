@@ -37,7 +37,7 @@ education:
     - course: Visiting Student
       institution: University of Illinois Urbana-Champaign
       year: 2025, 01 (expected)
-    - course: BSc in software engineering
+    - course: BSc in cyber science and engineering
       institution: Sichuan University
       year: 2025, 06 (expected)
 
