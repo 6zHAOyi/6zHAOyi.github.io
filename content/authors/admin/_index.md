@@ -115,7 +115,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-At present, I am a fourth-year undergraduate in Sichuan University. I have the privilege of being a visiting student at University of Illinois Urbana-Champaign under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang](https://merlintang.github.io/) to bring me to the research world.
+At present, I am a fourth-year undergraduate in Sichuan University. I have the privilege of being a visiting student at University of Illinois Urbana-Champaign under the esteemed guidance of [Prof.Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang](https://merlintang.github.io/) to bring me to the research world.
 
 My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the trustworthiness of ML-driven applications and related topics around foundation models and machine learning algorithms.
 {style="text-align: justify;"}
