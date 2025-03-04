@@ -1,5 +1,5 @@
 ---
-title: 'Stealthy Backdoor Attack on Self-supervised Vision Encoders for Large Vision Language Models'
+title: 'Stealthy Backdoor Attack in Self-supervised Vision Encoders for Large Vision Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,10 +25,10 @@ publishDate: '2024-11-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025, In Submission)*
-publication_short: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025, In Submission)*
+publication: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025)*
+publication_short: In *Conference on Computer Vision and Pattern Recognition (CVPR 2025)*
 
-abstract: In submmision.
+abstract: Self-supervised learning (SSL) vision encoders learn high-quality image representations and thus have become a vital part of developing vision modality of large vision language models (LVLMs). Due to the high cost of training such encoders, pre-trained encoders are widely shared and deployed into many LVLMs, which are security-critical or bear societal significance. Under this practical scenario, we reveal a new backdoor threat that significant visual hallucinations can be induced into these LVLMs by merely compromising vision encoders. Because of the sharing and reuse of these encoders, many downstream LVLMs may inherit backdoor behaviors from encoders, leading to widespread backdoors. In this work, we propose BadVision, the first method to exploit this vulnerability in SSL vision encoders for LVLMs with novel trigger optimization and backdoor learning techniques. We evaluate BadVision on two types of SSL encoders and LVLMs across eight benchmarks. We show that BadVision effectively drives the LVLMs to attacker-chosen hallucination with over 99% attack success rate, causing a 77.6% relative visual understanding error while maintaining the stealthiness. SoTA backdoor detection methods cannot detect our attack effectively.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -43,7 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2502.18290'
 url_code: ''
 url_dataset: ''
 url_poster: ''

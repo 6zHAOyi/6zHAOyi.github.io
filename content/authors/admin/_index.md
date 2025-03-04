@@ -29,14 +29,15 @@ bio: Primary research interest is Trustworthy ML.
 
 # Interests to show in About widget
 interests:
-  - Trustworthy ML
+  - Michine Learning
+  - Trustworthy Michine Learning
 
 # Education to show in About widget
 education:
   courses:
     - course: Visiting Student
       institution: University of Illinois Urbana-Champaign
-      year: 2025, 01 (expected)
+      year: 2025, 01
     - course: BSc in cyber science and engineering
       institution: Sichuan University
       year: 2025, 06 (expected)
@@ -114,9 +115,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-At present, I have the privilege of being a visiting student at University of Illinois Urbana-Champaign under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) and to work with [Prof.Carl Yang (Emory)](http://www.cs.emory.edu/~jyang71/) to bring me to the research world. I am a highly motivated and passionate undergraduate eagerly seeking admission to a Ph.D. program beginning at 2025 Fall.
+At present, I am a forth-year undergraduate in Sichuan University. I have the privilege of being a visiting student at University of Illinois Urbana-Champaign under the esteemed guidance of Professor [Huan Zhang](https://huan-zhang.com/). I was fortunate to be advised by [Prof.Mingjie Tang (SCU)](https://merlintang.github.io/) to bring me to the research world.
 
-My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the trustworthiness of ML-driven applications and related topics around foundation models and ML algorithms.
+My research interest lies at Trustworthy Machine Learning. Specifically, I focus on enhancing the trustworthiness of ML-driven applications and related topics around foundation models and machine learning algorithms.
 {style="text-align: justify;"}
 
 
