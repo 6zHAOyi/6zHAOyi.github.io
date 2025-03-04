@@ -44,7 +44,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2502.18290'
-url_code: ''
+url_code: 'https://github.com/6zHAOyi/BadVision'
 url_dataset: ''
 url_poster: ''
 url_project: ''
