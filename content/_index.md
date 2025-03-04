@@ -51,7 +51,7 @@ sections:
       text: |-
         <ul>
           <li>
-              <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
+              <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
           </li>
           <li>
               <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
