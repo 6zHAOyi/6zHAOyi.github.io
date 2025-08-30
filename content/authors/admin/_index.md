@@ -102,7 +102,7 @@ social:
   #     header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=r9OfkZYAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=QFJ7lCcAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/6zHAOyi
@@ -121,7 +121,7 @@ highlight_name: true
 ---
 I am a Ph.D. student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
 
-My research interests lie in advancing the frontiers of foundation models and machine learning algorithms.
+My research interests lie in advancing the frontiers of foundation models.
 {style="text-align: justify;"}
 
 
