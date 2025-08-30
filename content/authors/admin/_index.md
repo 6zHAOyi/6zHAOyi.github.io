@@ -30,8 +30,8 @@ bio: Primary research interest is ML.
 # Interests to show in About widget
 interests:
   - Vision Language Model
-  - Michine Learning
-  - Trustworthy Michine Learning
+  - Machine Learning
+  - Trustworthy Machine Learning
 
 # Education to show in About widget
 education:
@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof.[Huan Zhang].
+I am a PhD student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
 
 My research interests lie in advancing the frontiers of foundation models and machine learning algorithms.
 {style="text-align: justify;"}
