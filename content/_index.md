@@ -40,31 +40,31 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   ####################################################################################################
-  - block: accomplishments
-    id: recent-news
-    content:
-      title: Recent News
-      text: |-
-        <ul>
-          <li>
-              <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
-          </li>
-          <li>
-              <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
-          </li>
-          <li>
-              <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
-          </li>
-          <li>
-              <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
-          </li>
-        </ul>
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: recent-news
+  #   content:
+  #     title: Recent News
+  #     text: |-
+  #       <ul>
+  #         <li>
+  #             <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
+  #         </li>
+  #       </ul>
+  #   design:
+  #     columns: '2'
   ####################################################################################################
   # - block: collection
   #   id: featured
@@ -93,33 +93,33 @@ sections:
       columns: '2'
       view: citation
   ####################################################################################################
-  # - block: experience
-  #   id: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: BEng.
-  #         company: Sichuan University
-  #         company_url: ''
-  #         company_logo: 
-  #         location: Chengdu
-  #         date_start: '2021-09'
-  #         date_end: '2025-06'
-  #         description:  |2-
-  #             **Projects**
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: BEng.
+          company: Sichuan University
+          company_url: ''
+          company_logo: 
+          location: Chengdu
+          date_start: '2021-09'
+          date_end: '2025-06'
+          description:  |2-
+              **Projects**
 
-  #             * Universal Black-Box Adversarial Patch Attacks on Regression Models
-  #             * Fraud Detection in Blockchain via Graph Neural Network 
-  #   design:
-  #     columns: '2'
+              * Universal Black-Box Adversarial Patch Attacks on Regression Models
+              * Fraud Detection in Blockchain via Graph Neural Network 
+    design:
+      columns: '2'
   ####################################################################################################
   # - block: accomplishments
   #   id: honors
