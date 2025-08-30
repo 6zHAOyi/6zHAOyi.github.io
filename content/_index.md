@@ -44,27 +44,27 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   ####################################################################################################
-  - block: accomplishments
-    id: recent-news
-    content:
-      title: Recent News
-      text: |-
-        <ul>
-          <li>
-              <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
-          </li>
-          <li>
-              <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
-          </li>
-          <li>
-              <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
-          </li>
-          <li>
-              <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
-          </li>
-        </ul>
-    design:
-      columns: '2'
+  # - block: accomplishments
+  #   id: recent-news
+  #   content:
+  #     title: Recent News
+  #     text: |-
+  #       <ul>
+  #         <li>
+  #             <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
+  #         </li>
+  #         <li>
+  #             <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
+  #         </li>
+  #       </ul>
+  #   design:
+  #     columns: '2'
   ####################################################################################################
   # - block: collection
   #   id: featured

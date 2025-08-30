@@ -6,7 +6,7 @@ title: Zhaoyi Liu
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Zhaoyi (Lay)
+first_name: Zhaoyi
 last_name: Liu
 
 # Status emoji
@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a PhD student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
+I am a Ph.D. student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
 
 My research interests lie in advancing the frontiers of foundation models and machine learning algorithms.
 {style="text-align: justify;"}
