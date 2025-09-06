@@ -119,9 +119,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
+I am a first year Ph.D. student at University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I am glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the esteemed guidance of Prof. Huan Zhang.
 
 My research interests lie in advancing the frontiers of foundation models.
+
+<span style="color:red">I'm looking for summer intern opportunities in 2026 summer. Feel free to reach out.😀</span>
 {style="text-align: justify;"}
 
 
