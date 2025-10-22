@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first year Ph.D. student at University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. [Ang Li](https://www.ang-li.com/). Before beginning my journey at UMD, I completed my undergraduate studies at SCU, where I had a valuable opportunity to work under the guidance of Prof. Mingjie Tang. I am also glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the guidance of Prof. Huan Zhang.
+I am a first year Ph.D. student at University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. Ang Li. Before beginning my journey at UMD, I completed my undergraduate studies at SCU, where I had a valuable opportunity to work under the guidance of Prof. Mingjie Tang. I am also glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the guidance of Prof. Huan Zhang.
 
 My research interests lie in advancing the frontiers of foundation models.
 
