@@ -123,7 +123,4 @@ I am a first year Ph.D. student at University of Maryland, College Park (UMD). I
 
 My research interests lie in advancing the frontiers of foundation models.
 
-<span style="color:red">I'm looking for summer intern opportunities in 2026 summer. Feel free to reach out.😀</span>
-{style="text-align: justify;"}
-
 

@@ -1,5 +1,5 @@
 ---
-title: 'On the Trustworthiness of Generative Foundation Models'
+title: 'TrustGen: A Platform of Dynamic Benchmarking on the Trustworthiness of Generative Foundation Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -25,8 +25,8 @@ publishDate: '2025-02-28T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Pre-print
-publication_short: Pre-print
+publication: In *International Conference on Learning Representations (ICLR 2026)*
+publication_short: In *International Conference on Learning Representations (ICLR 2026)*
 
 abstract: Generative Foundation Models (GenFMs) have emerged as transformative tools. However, their widespread adoption raises critical concerns regarding trustworthiness across dimensions. This paper presents a comprehensive framework to address these challenges through three key contributions. First, we systematically review global AI governance laws and policies from governments and regulatory bodies, as well as industry practices and standards. Based on this analysis, we propose a set of guiding principles for GenFMs, developed through extensive multidisciplinary collaboration that integrates technical, ethical, legal, and societal perspectives. Second, we introduce TrustGen, the first dynamic benchmarking platform designed to evaluate trustworthiness across multiple dimensions and model types, including text-to-image, large language, and vision-language models. TrustGen leverages modular components--metadata curation, test case generation, and contextual variation--to enable adaptive and iterative assessments, overcoming the limitations of static evaluation methods. Using TrustGen, we reveal significant progress in trustworthiness while identifying persistent challenges. Finally, we provide an in-depth discussion of the challenges and future directions for trustworthy GenFMs, which reveals the complex, evolving nature of trustworthiness, highlighting the nuanced trade-offs between utility and trustworthiness, and consideration for various downstream applications, identifying persistent challenges and providing a strategic roadmap for future research. This work establishes a holistic framework for advancing trustworthiness in GenAI, paving the way for safer and more responsible integration of GenFMs into critical applications. To facilitate advancement in the community, we release the toolkit for dynamic evaluation.
 
