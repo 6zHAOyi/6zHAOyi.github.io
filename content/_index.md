@@ -44,27 +44,27 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   ####################################################################################################
-  # - block: accomplishments
-  #   id: recent-news
-  #   content:
-  #     title: Recent News
-  #     text: |-
-  #       <ul>
-  #         <li>
-  #             <strong>[2025/02/28]</strong> Our paper <a href="https://arxiv.org/abs/2502.18290">BadVision</a> is <strong>accepted by CVPR 2025!</strong>
-  #         </li>
-  #         <li>
-  #             <strong>[2025/02/27]</strong> Our paper <a href="https://arxiv.org/pdf/2411.17188">ISG</a> is <strong>accepted by ICLR 2025!</strong>
-  #         </li>
-  #         <li>
-  #             <strong>[2024/05/02]</strong> Our paper <a href="https://arxiv.org/abs/2404.00924">BadPart</a> is <strong>accepted by ICML 2024!</strong>
-  #         </li>
-  #         <li>
-  #             <strong>[2023/08/08]</strong> My software themed in medical CT segementation has won the <strong>silver award in National College Student Software Design Competition!</strong>
-  #         </li>
-  #       </ul>
-  #   design:
-  #     columns: '2'
+  - block: accomplishments
+    id: recent-news
+    content:
+      title: Recent News
+      text: |-
+        <ul>
+          <li>
+              <strong>[2025/02/28]</strong> One paper is accepted to <strong>NeurIPS 2026</strong>.
+          </li>
+          <li>
+              <strong>[2025/02/28]</strong> Our paper BadVision is accepted to <strong>CVPR 2025</strong>.
+          </li>
+          <li>
+              <strong>[2025/02/27]</strong> One paper is accepted to <strong>ICLR 2025</strong>.
+          </li>
+          <li>
+              <strong>[2024/05/02]</strong> Our paper BadPart is accepted to <strong>ICML 2024</strong>.
+          </li>
+        </ul>
+    design:
+      columns: '2'
   ####################################################################################################
   # - block: collection
   #   id: featured
@@ -121,24 +121,18 @@ sections:
   #   design:
   #     columns: '2'
   ####################################################################################################
-  # - block: accomplishments
-  #   id: honors
-  #   content:
-  #     title: Honors & Awards
-  #     text: |-
-  #       <ul>
-  #         <li>
-  #             National Scholarship, China, 2022, 2023.
-  #         </li>
-  #         <li>
-  #             Silver Award in National College Student Software Design Competition (Top 1.5%), China, 2023.
-  #         </li>
-  #         <li>
-  #           Comprehensive Scholarship, Sichuan University, 2022, 2023.
-  #         </li>
-  #       </ul>
-  #   design:
-  #     columns: '2'
+  - block: accomplishments
+    id: honors
+    content:
+      title: Honors & Awards
+      text: |-
+        <ul>
+          <li>
+              Dean’s Fellowship, University of Maryland, 2025
+          </li>
+        </ul>
+    design:
+      columns: '2'
   ####################################################################################################
   # - block: accomplishments
   #   content:
@@ -174,33 +168,33 @@ sections:
   #   design:
   #     columns: '2'
   ####################################################################################################
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   ####################################################################################################
   # - block: portfolio
   #   id: projects

@@ -25,12 +25,13 @@ organizations:
     url: https://umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Primary research interest is ML.
+# bio: Primary research interest is ML.
+bio:
 
 # Interests to show in About widget
 interests:
+  - Large Language Model
   - Vision Language Model
-  - Machine Learning
   - Trustworthy Machine Learning
 
 # Education to show in About widget
@@ -42,7 +43,7 @@ education:
     - course: Visiting Student
       institution: University of Illinois, Urbana Champaign
       year: 2024 - 2025
-    - course: BSc in cyber science and engineering
+    - course: B.E. in Cyber Science and Engineering
       institution: Sichuan University
       year: 2021 - 2025
 
@@ -114,12 +115,12 @@ social:
   # and uncomment the lines below.
   # - icon: cv
   #   icon_pack: ai
-  #   link: 
+  #   link:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a first year Ph.D. student at University of Maryland, College Park (UMD). I have the privilege of being advised by Prof. Ang Li. Before beginning my journey at UMD, I completed my undergraduate studies at SCU, where I had a valuable opportunity to work under the guidance of Prof. Mingjie Tang. I am also glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the guidance of Prof. Huan Zhang.
+I am a Ph.D. student at University of Maryland, College Park (UMD). I have the privilege of being advised by [Prof. Ang Li](https://www.ang-li.com). Before beginning my journey at UMD, I obtained my bachelor’s degree at the School of Cyber Science and Engineering in Sichuan University, where I had a valuable opportunity to work under the guidance of Prof. Mingjie Tang. I am also glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the guidance of Prof. Huan Zhang.
 
 My research interests lie in advancing the frontiers of foundation models.
 
