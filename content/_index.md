@@ -51,7 +51,7 @@ sections:
       text: |-
         <ul>
           <li>
-              <strong>[2025/02/28]</strong> One paper is accepted to <strong>NeurIPS 2026</strong>.
+              <strong>[2026/09/24]</strong> One paper is accepted to <strong>NeurIPS 2026</strong>.
           </li>
           <li>
               <strong>[2025/02/28]</strong> Our paper BadVision is accepted to <strong>CVPR 2025</strong>.
