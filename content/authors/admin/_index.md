@@ -43,7 +43,7 @@ education:
     - course: Visiting Student
       institution: University of Illinois, Urbana Champaign
       year: 2024 - 2025
-    - course: B.E. in Cyber Science and Engineering
+    - course: B.E. in Computer Engineering
       institution: Sichuan University
       year: 2021 - 2025
 

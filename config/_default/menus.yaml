@@ -19,9 +19,9 @@ main:
   # - name: Honors
   #   url: '#honors'
   #   weight: 50
-  - name: Posts
-    url: '#posts'
-    weight: 30
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 30
   
   # - name: Contact
   #   url: '#contact'
