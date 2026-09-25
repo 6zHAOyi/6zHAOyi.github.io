@@ -29,7 +29,7 @@ author_notes:
   - ''
   - ''
   - ''
-  - 'Corresponding author'
+  - ''
 
 date: '2025-02-20T00:00:00Z'
 doi: ''

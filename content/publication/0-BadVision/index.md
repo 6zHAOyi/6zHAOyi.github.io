@@ -10,8 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
+
 
 date: '2025-02-27T00:00:00Z'
 doi: ''
