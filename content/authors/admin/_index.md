@@ -39,7 +39,7 @@ education:
   courses:
     - course: Ph.D. Student
       institution: University of Maryland, College Park
-      year: 2025 - now
+      year: 2025 - Present
     - course: Visiting Student
       institution: University of Illinois, Urbana Champaign
       year: 2024 - 2025
