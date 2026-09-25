@@ -5,7 +5,7 @@ title: 'TrustGen: A Platform of Dynamic Benchmarking on the Trustworthiness of G
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - ''
+  - 'TrustGen Team'
   - ''
 
 # Author notes (optional)
@@ -13,11 +13,11 @@ author_notes:
   - ''
   - ''
 
-date: '2025-02-28T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-28T00:00:00Z'
+publishDate: '2026-01-1T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
