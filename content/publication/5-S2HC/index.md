@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2603.20896'
 url_code: 'https://github.com/6zHAOyi/s2HC'
 url_dataset: ''
 url_poster: ''
