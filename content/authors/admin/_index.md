@@ -122,6 +122,6 @@ highlight_name: true
 ---
 I am a Ph.D. student at University of Maryland, College Park (UMD), advised by [Prof. Ang Li](https://www.ang-li.com). Before beginning my journey at UMD, I obtained my bachelor’s degree at the School of Cyber Science and Engineering in Sichuan University, where I worked under the guidance of Prof. Mingjie Tang. I am also glad to have the chance as a visiting student at University of Illinois, Urbana Champaign under the guidance of Prof. Huan Zhang.
 
-My research interests lie in advancing the frontiers of foundation models.
+My research interests lie in advancing the capabilities of large language models (LLMs) and vision-language models (VLMs).
 
 
