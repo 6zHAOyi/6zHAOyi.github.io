@@ -32,7 +32,7 @@ bio:
 interests:
   - Large Language Model
   - Vision Language Model
-  - Trustworthy Machine Learning
+  - Trustworthy AI
 
 # Education to show in About widget
 education:
